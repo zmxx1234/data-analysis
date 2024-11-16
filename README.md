@@ -1,2 +1,6 @@
 # data-analysis
-    - date    notes
+- [num] [date] [notes]
+    - 1
+    - 2
+    - 3
+    - 4
